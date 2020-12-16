@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TrileX.xcodeproj">
+      location = "self:/Users/kylesphere/Code/TrileX/TripleX.xcodeproj">
    </FileRef>
 </Workspace>

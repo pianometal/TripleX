@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		68AA444823C4F1B2008BA29D /* TrileX */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TrileX; sourceTree = BUILT_PRODUCTS_DIR; };
+		68AA444823C4F1B2008BA29D /* TripleX */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TripleX; sourceTree = BUILT_PRODUCTS_DIR; };
 		68AA444B23C4F1B2008BA29D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		68AA443F23C4F1B2008BA29D = {
 			isa = PBXGroup;
 			children = (
-				68AA444A23C4F1B2008BA29D /* TrileX */,
+				68AA444A23C4F1B2008BA29D /* TripleX */,
 				68AA444923C4F1B2008BA29D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		68AA444923C4F1B2008BA29D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				68AA444823C4F1B2008BA29D /* TrileX */,
+				68AA444823C4F1B2008BA29D /* TripleX */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		68AA444A23C4F1B2008BA29D /* TrileX */ = {
+		68AA444A23C4F1B2008BA29D /* TripleX */ = {
 			isa = PBXGroup;
 			children = (
 				68AA444B23C4F1B2008BA29D /* main.cpp */,
 			);
-			path = TrileX;
+			path = TripleX;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		68AA444723C4F1B2008BA29D /* TrileX */ = {
+		68AA444723C4F1B2008BA29D /* TripleX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 68AA444F23C4F1B2008BA29D /* Build configuration list for PBXNativeTarget "TrileX" */;
+			buildConfigurationList = 68AA444F23C4F1B2008BA29D /* Build configuration list for PBXNativeTarget "TripleX" */;
 			buildPhases = (
 				68AA444423C4F1B2008BA29D /* Sources */,
 				68AA444523C4F1B2008BA29D /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = TrileX;
+			name = TripleX;
 			productName = TrileX;
-			productReference = 68AA444823C4F1B2008BA29D /* TrileX */;
+			productReference = 68AA444823C4F1B2008BA29D /* TripleX */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 68AA444323C4F1B2008BA29D /* Build configuration list for PBXProject "TrileX" */;
+			buildConfigurationList = 68AA444323C4F1B2008BA29D /* Build configuration list for PBXProject "TripleX" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				68AA444723C4F1B2008BA29D /* TrileX */,
+				68AA444723C4F1B2008BA29D /* TripleX */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		68AA444323C4F1B2008BA29D /* Build configuration list for PBXProject "TrileX" */ = {
+		68AA444323C4F1B2008BA29D /* Build configuration list for PBXProject "TripleX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68AA444D23C4F1B2008BA29D /* Debug */,
@@ -267,7 +267,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		68AA444F23C4F1B2008BA29D /* Build configuration list for PBXNativeTarget "TrileX" */ = {
+		68AA444F23C4F1B2008BA29D /* Build configuration list for PBXNativeTarget "TripleX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				68AA445023C4F1B2008BA29D /* Debug */,
